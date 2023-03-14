@@ -5,6 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.express as px #install plotly
 import plotly.figure_factory as ff
+import statsmodels.api as sm
 
 st.header("Climate impact analysis")
 
